@@ -18,7 +18,7 @@ public class sum {
 		b = Integer.parseInt(s2);
 		
 		System.out.println("두 수의 합은 "+(a+b)+"입니다.");
-		Scanner.close();
+		
 	}
 
 }
